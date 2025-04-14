@@ -7,7 +7,7 @@ This repository hosts an open (but early and experimental) dataset of minibus ro
 ## ⚠️ The GTFS dataset is not yet available — coming soon!
 
 ## 🗺️ License
-This project uses data from [OpenStreetMap]([url](https://www.openstreetmap.org/copyright)), licensed under the [Open Database License (ODbL)]([url](https://opendatacommons.org/licenses/odbl/)). You are free to use, share, and adapt the data, as long as you credit contributors and share any derived data under the same license.
+This project uses data from [OpenStreetMap](https://www.openstreetmap.org/copyright), licensed under the [Open Database License (ODbL)](https://opendatacommons.org/licenses/odbl/). You are free to use, share, and adapt the data, as long as you credit contributors and share any derived data under the same license.
 
 ## 🛠️ Tools Used
 Overpass API — for querying and extracting OpenStreetMap data
