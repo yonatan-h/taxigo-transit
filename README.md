@@ -1,6 +1,6 @@
 # TaxiGo GTFS - Minibus Taxi Transit Data
+
 Transit data of Addis Ababa, Ethiopia — based on OpenStreetMap and Traffic Management Authority sources.
----
 
 This repository hosts an open (but early and experimental) dataset of minibus routes in Addis Ababa.
 
